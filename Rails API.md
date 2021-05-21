@@ -1,0 +1,25 @@
+## Rails API
+
+
+
+| Title                      | Key Concepts                                                 | Resources                                                    | Assignment                                                   |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                            | What is API and Concepts of API                              | [Concept of API](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/apis-and-building-your-own) | 1. Give a short introduction about concept of api with real world examples in your own word. |
+|                            | REST,SOAP,GraphQl                                            |                                                              | 2. What's the difference between RESTful API and GraphQl     |
+|                            | [CORS (Cross Origin Resource Sharing)](https://www.youtube.com/watch?v=4KHiSt0oLJ0) |                                                              | 3. What is CORS?                                             |
+|                            |                                                              |                                                              |                                                              |
+|                            | Setting Up Rails API only application.                       | [API only application in Rails](https://guides.rubyonrails.org/api_app.html) | Create a Rails api only application                          |
+|                            |                                                              |                                                              |                                                              |
+| Rails Api only application | Creating CURD API endpoints.                                 | [Blog Post](https://duetcode.io/rails-api-only-course) [Medium Blog Post](https://medium.com/@oliver.seq/creating-a-rest-api-with-rails-2a07f548e5dc)  [From Go rails](https://gorails.com/episodes/our-first-api?autoplay=1) | Create a CRUD api endpoints.                                 |
+|                            |                                                              |                                                              |                                                              |
+|                            | Routes for the api endpoint with Namespacing and Versioning  |                                                              | Create a RESful routes for your api's                        |
+|                            |                                                              |                                                              |                                                              |
+|                            | Calling the API with CURL/POSTMAN                            |                                                              | Use Postman or Curl to test your api                         |
+|                            |                                                              |                                                              |                                                              |
+|                            | Active Model Serializer                                      | [Active Model Serialization](https://api.rubyonrails.org/classes/ActiveModel/Serialization.html)  [Blog Post](https://learn.co/lessons/using-active-model-serializer) | Make use of Active Model Serializer                          |
+|                            |                                                              |                                                              |                                                              |
+|                            | JSON:API Specification                                       | [JSON API specification](https://jsonapi.org/format/)        | Make your API according to Json api specification            |
+|                            |                                                              |                                                              |                                                              |
+|                            | Authorizing our API endpoints.                               | [JWT](https://jwt.io/)                                       | What is JWT?                                                 |
+|                            |                                                              |                                                              | Authorize your api with JWT                                  |
+|                            |                                                              |                                                              |                                                              |
