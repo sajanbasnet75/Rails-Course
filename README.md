@@ -1,3 +1,5 @@
+Rails course designed for the bootcamps by me. 
+
 # Rails-Course
 [Rails Basics](https://github.com/sajanbasnet75/Rails-Course/blob/main/Rails%20Basics.md) 
 
